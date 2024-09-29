@@ -1,0 +1,11 @@
+/*css background color for entire body*/
+body {
+  background-color: tan;
+}
+/*css color for h1*/
+h1,
+font,
+th {
+  color: #573a39;
+}
+/*css color for */
